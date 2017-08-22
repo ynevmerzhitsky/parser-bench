@@ -1,0 +1,6 @@
+.idea
+src/github.com
+src/golang.org
+src/events.1000000.json
+bin
+pkg
