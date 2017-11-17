@@ -1,0 +1,5 @@
+goos: windows
+goarch: amd64
+BenchmarkExpression-4   	   50000	    109053 ns/op	   13507 B/op	     240 allocs/op
+PASS
+ok  	_/E_/go-bench/src	6.510s

@@ -1,7 +1,0 @@
-BenchmarkUnmarshalDynamicJson100-4       	    2000	    629416 ns/op	   96328 B/op	    1035 allocs/op
-BenchmarkUnmarshalDynamicJson1000-4      	     200	   6159080 ns/op	  863040 B/op	   10057 allocs/op
-BenchmarkUnmarshalDynamicJson10000-4     	      20	  67294590 ns/op	10726224 B/op	  100169 allocs/op
-BenchmarkUnmarshalDynamicJson100000-4    	       2	 686952350 ns/op	110787096 B/op	 1001091 allocs/op
-BenchmarkUnmarshalDynamicJson1000000-4   	       1	6908659800 ns/op	1111640128 B/op	10010112 allocs/op
-PASS
-ok  	_/E_/go-bench/src	14.068s
